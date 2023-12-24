@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Aries",
+    "description": "Energetic and daring, Aries individuals embrace challenges and exude confidence in their pursuits."
+  },
+  {
+    "title": "Tauro",
+    "description": "Steadfast and reliable, Taureans are known for their enduring patience and commitment to their goals."
+  },
+  {
+    "title": "Géminis",
+    "description": "Curious and adaptable, Geminis thrive in diverse environments, fueled by their love for new experiences and knowledge."
+  },
+  {
+    "title": "Cáncer",
+    "description": "Empathetic and nurturing, Cancerians create strong emotional bonds and find comfort in their close-knit relationships."
+  },
+  {
+    "title": "Leo",
+    "description": "Charismatic and dynamic, Leos bring a vibrant energy to any situation, capturing attention with their natural charm."
+  },
+  {
+    "title": "Virgo",
+    "description": "Detail-oriented and pragmatic, Virgos excel in precision and efficiency, ensuring everything is in perfect order."
+  },
+  {
+    "title": "Libra",
+    "description": "Charming and diplomatic, Libras seek harmony and fairness, creating balanced and positive connections with others."
+  },
+  {
+    "title": "Escorpio",
+    "description": "Intense and intuitive, Scorpios navigate the depths of emotion and passion, forging profound connections in their relationships."
+  },
+  {
+    "title": "Sagitario",
+    "description": "Adventurous and optimistic, Sagittarians embrace challenges with enthusiasm, seeking wisdom through exploration and discovery."
+  },
+  {
+    "title": "Capricornio",
+    "description": "Ambitious and disciplined, Capricorns set high standards for themselves, driven by a strong sense of responsibility and achievement."
+  },
+  {
+    "title": "Acuario",
+    "description": "Innovative and independent, Aquarians value individuality and forward-thinking ideas, contributing to a progressive and open-minded world."
+  },
+  {
+    "title": "Piscis",
+    "description": "Compassionate and dreamy, Pisceans navigate the depths of emotion with sensitivity, bringing a touch of magic to their connections."
+  }
+]
